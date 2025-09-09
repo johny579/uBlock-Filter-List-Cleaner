@@ -12,4 +12,4 @@ This is an unofficial web app made for content blockers like uBlock Origin. It o
 - Simple & Polished Modern User Interface with Dark Theme
 
 # Contributing #
-To edit its source code, unpackage it using (TurboWarp Unpackager)[https://turbowarp.github.io/unpackager/].
+To edit its source code, unpackage it using [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/).
