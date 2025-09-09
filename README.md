@@ -7,8 +7,8 @@ This is an unofficial web app made for content blockers like uBlock Origin. It o
 - Add custom pre-installed filters (Optional)
 - Arrange filter items alphabteically (Optional)
 - Create "Last Optimized" Comment (Optional)
+- Delete comments starting with "!" (Optional)
 - Delete duplicate Filter List items
-- Delete Comments starthing with "!" (Optional)
 - Simple & Polished Modern User Interface with Dark Theme
 
 # Contributing #
