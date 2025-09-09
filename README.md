@@ -11,5 +11,5 @@ This is an unofficial web app made for content blockers like uBlock Origin. It o
 - Delete Comments starthing with "!" (Optional)
 - Simple & Polished Modern User Interface with Dark Theme
 
-- # Contributing #
+# Contributing #
 To edit its source code, unpackage it using TurboWarp Unpackager.
