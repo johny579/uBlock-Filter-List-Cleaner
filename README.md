@@ -1,5 +1,5 @@
 # uBlock Filter List Cleaner #
-This is an unofficial web app made for content blockers like uBlock Origin. It optimizes filter lists and makes them easy to manage.
+This is an unofficial web app made for content blockers like [uBlock Origin](https://ublockorigin.com/). It optimizes filter lists and makes them easier to manage.
 
 <img width="482" height="392" alt="Screenshot 2025-09-09 140603" src="https://github.com/user-attachments/assets/1aa07e20-0d85-4492-8335-12d2d468fe87" />
 
@@ -12,4 +12,4 @@ This is an unofficial web app made for content blockers like uBlock Origin. It o
 - Simple & Polished Modern User Interface with Dark Theme
 
 # Contributing #
-To edit its source code, unpackage it using [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/).
+To edit its source code, unpackage [it](https://github.com/johny579/uBlock-Filter-List-Cleaner/blob/main/uBlock%20Filter%20List%20Cleaner.html) using [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/).
