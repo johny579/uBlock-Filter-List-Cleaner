@@ -9,7 +9,7 @@ This is an unofficial web app made for content blockers like [uBlock Origin](htt
 - Create "Last Optimized" Comment at the top (Optional)
 - Delete all other comments starting with "!" (Optional)
 - Delete duplicate Filter List items for Brave & uBlock
-- Delete unecessary sub-elements of bigger items (Optional)
+- Delete unnecessary sub-elements of bigger items (Optional)
 - Simple & Polished Modern User Interface with Dark Theme
 
 # Contributing #
