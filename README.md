@@ -1,7 +1,7 @@
 # uBlock Filter List Cleaner #
 This is an unofficial web app made for content blockers like [uBlock Origin](https://ublockorigin.com/), [uBlacklist](https://github.com/iorate/ublacklist), [Brave Browser](https://brave.com/youtube-ad-blocker/) and [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en). It optimizes filter lists by deleting duplicate lines and makes them easier to manage by sorting them alphabetically, deleting empty lines & useless comments.
 
-<img width="482" height="392" alt="Screenshot 2025-09-09 140603" src="https://github.com/user-attachments/assets/1aa07e20-0d85-4492-8335-12d2d468fe87" />
+<img width="482" height="392" alt="image" src="https://github.com/user-attachments/assets/4d2c8108-9335-468d-b4ca-d6cbda679f15" />
 
 # Features #
 - Add custom pre-installed filter list items (Optional)
@@ -9,6 +9,7 @@ This is an unofficial web app made for content blockers like [uBlock Origin](htt
 - Create "Last Optimized" Comment at the top (Optional)
 - Delete all other comments starting with "!" (Optional)
 - Delete duplicate Filter List items for Brave & uBlock
+- Delete unecessary sub-elements of bigger items (Optional)
 - Simple & Polished Modern User Interface with Dark Theme
 
 # Contributing #
