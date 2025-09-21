@@ -10,7 +10,8 @@ This is an unofficial web app made for content blockers like [uBlock Origin](htt
 - Delete all other comments starting with "!" (Optional)
 - Delete duplicate Filter List items for Brave & uBlock
 - Delete unnecessary sub-elements of bigger items (Optional)
+- No ads, telemetry, trackers, in-app purchases or bloat.
 - Simple & Polished Modern User Interface with Dark Theme
 
 # Contributing #
-To edit its source code, unpackage [it](https://github.com/johny579/uBlock-Filter-List-Cleaner/blob/main/uBlock%20Filter%20List%20Cleaner.html) using [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/).
+To edit its source code, unpackage [it](https://github.com/johny579/uBlock-Filter-List-Cleaner/blob/main/uBlock%20Filter%20List%20Cleaner.html) using [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/). [Feature requests & bug reports](https://github.com/johny579/uBlock-Filter-List-Cleaner/issues) are welcome.
