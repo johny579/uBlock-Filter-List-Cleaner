@@ -1,5 +1,5 @@
 # uBlock Filter List Cleaner #
-This is an unofficial web app made for content blockers like [uBlock Origin](https://ublockorigin.com/), [uBlacklist](https://github.com/iorate/ublacklist), [Brave Browser](https://brave.com/youtube-ad-blocker/) and [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en). It optimizes filter lists by deleting duplicate lines and makes them easier to manage by sorting them alphabetically, deleting empty lines & useless comments.
+A free as in ["free speech"](https://www.gnu.org/philosophy/free-sw.html) (and also as in "free beer") software to organize and clean up scripts for content blockers like [uBlock Origin](https://ublockorigin.com/), [uBlacklist](https://github.com/iorate/ublacklist), [Brave Browser](https://brave.com/youtube-ad-blocker/) and [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en). It optimizes filter lists by deleting duplicate lines and makes them easier to manage by sorting them alphabetically, deleting empty lines & useless comments.
 
 <img width="661" height="526" alt="UBOFLCv2" src="https://github.com/user-attachments/assets/3976ea3d-1328-4b81-82a4-d5c7ea47358e" />
 
