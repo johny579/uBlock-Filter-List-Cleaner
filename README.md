@@ -1,17 +1,12 @@
 # uBlock Filter List Cleaner #
-A free as in ["free speech"](https://www.gnu.org/philosophy/free-sw.html) (and also as in "free beer") software to organize and clean up scripts for content blockers like [uBlock Origin](https://ublockorigin.com/), [uBlacklist](https://github.com/iorate/ublacklist), [Brave Browser](https://brave.com/youtube-ad-blocker/) and [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en). It optimizes filter lists by deleting duplicate lines and makes them easier to manage by sorting them alphabetically, deleting empty lines & useless comments.
+A free as in ["free speech"](https://www.gnu.org/philosophy/free-sw.html) web app to arrange or clean up filter lists for content blockers like [uBlock Origin](https://ublockorigin.com/); [uBlacklist](https://github.com/iorate/ublacklist), and [AdGuard AdBlocker](https://chromewebstore.google.com/detail/adguard-adblocker/bgnkhhnnamicmpeenaelnjfhikgbkllg?hl=en).
 
-<img width="661" height="526" alt="UBOFLCv2" src="https://github.com/user-attachments/assets/3976ea3d-1328-4b81-82a4-d5c7ea47358e" />
+<img width="322" height="392" alt="uboflc" src="https://github.com/user-attachments/assets/83db2efd-459b-4966-b80c-9ba4fa475af0" />
+
 
 # Features #
-- Add custom pre-installed filter list items (Optional)
-- Arrange all filter items alphabteically (Optional)
-- Create "Last Optimized" Comment at the top (Optional)
-- Delete all other comments starting with "!" (Optional)
-- Delete duplicate Filter List items for Brave & uBlock
-- Delete unnecessary sub-elements of bigger items (Optional)
-- No ads, telemetry, trackers, in-app purchases or bloat.
-- Simple & Polished Modern User Interface with Dark Theme
-
-# Contributing #
-To edit its source code, unpackage [it](https://github.com/johny579/uBlock-Filter-List-Cleaner/blob/main/uBlock%20Filter%20List%20Cleaner.html) using [TurboWarp Unpackager](https://turbowarp.github.io/unpackager/). [Feature requests & bug reports](https://github.com/johny579/uBlock-Filter-List-Cleaner/issues) are welcome.
+- Add other filters to yours (optional)
+- Arrange all items alphabetically (optional)
+- Delete any duplicate entry automatically
+- Delete comments, empty lines or sub-elements
+- Modern UI with dark theme, no ads nor IAPs
